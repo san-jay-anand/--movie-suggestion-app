@@ -1,0 +1,4 @@
+# Railway Deployment Configuration
+root = "server"
+build.command = "npm install"
+start.command = "npm start"

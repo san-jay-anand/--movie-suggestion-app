@@ -1,0 +1,10 @@
+node_modules/
+.env
+.idea
+build/
+dist/
+.DS_Store
+*.swp
+*.swo
+*~
+.eslintcache
